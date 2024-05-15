@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi, I,m Vrinda! 👋
+
+- 😄 Pronouns: She/Her
+- 🌱 I’m currently learning python.
+- 👯 I’m looking to collaborate on projects associated with quantative finance and data analysis.
+
+[![Vrinda's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vrinda-vg&show_icons=true&theme=radical)](https://github.com/vrinda-vg/github-readme-stats.git)
 
 <!--
 **vrinda-vg/vrinda-vg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -6,7 +12,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning python
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
