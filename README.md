@@ -7,10 +7,13 @@
 # 💻 Tech Stack
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 
+# 🏆 Leetcode Stats
+![](https://leetcard.jacoblin.cool/goelvrinda?ext=activity)
+<!--
 # 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=vrinda-vg&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=vrinda-vg&theme=dark&hide_border=false)<br/>
-
+-->
 <!--
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=vrinda-vg&theme=radical&no-frame=false&no-bg=true&margin-w=4)
